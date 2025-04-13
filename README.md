@@ -18,7 +18,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
+ 
+## 💻 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 
 ## 📚 Coding Profiles
 
@@ -35,12 +38,5 @@
 
 
 
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
+ 
   
