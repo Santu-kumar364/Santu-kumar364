@@ -40,8 +40,8 @@
 - 🎯 [LeetCode](https://leetcode.com/your_username)
 - 🧩 [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/your_username)
 
+### 📚 Coding Profiles
 
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your_username)
-[![Coding Ninjas](https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=Codeforces&logoColor=white)](https://www.codingninjas.com/codestudio/profile/your_username)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/santukumar7619/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/santukumar7619)
+[![Coding Ninjas](https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=Codeforces&logoColor=white)](https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342)
