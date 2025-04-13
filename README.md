@@ -22,11 +22,5 @@
 ---
 
 ### 📊 GitHub Stats:
-![Santu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santu-kumar364&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical)
-
----
-
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/santu-kumar-72239231b/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:santukumar7619@gmail.com)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical)
+ 
