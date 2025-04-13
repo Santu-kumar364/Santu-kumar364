@@ -35,9 +35,6 @@
 <a href="https://www.hackerrank.com/profile/santukumar7619">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
-<a href="https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342">
-  <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360 Logo" height="36" />
-</a>
  <a href="https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342">
   <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360 Logo" height="24" />
 </a>
