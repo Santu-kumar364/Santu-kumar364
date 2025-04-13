@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santu Kumar</h1>
 <h3 align="center">An aspiring Full-Stack Developer | Java Enthusiast | Educator from India 🇮🇳</h3>
 
----
-
-🔭 I’m currently working on: **Task Management System with Spring Boot + React**  
-🌱 I’m learning: **Java, Spring Boot, REST APIs, System Design**  
-💬 Ask me about: **Full-Stack Development, Java, React, MySQL**  
+--- 
 📫 Reach me at: **santukumar7619@gmail.com**  
 🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics (2023–2027)**  
 ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
@@ -48,13 +44,8 @@
 
 **Tools:** React, JavaScript, HTML5, CSS, OpenWeather API
 
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santu-kumar364&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -75,7 +66,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santukumar7619@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Santu-kumar364)
 
----
-
-⭐️ From [Santu-kumar364](https://github.com/Santu-kumar364)
+ 
  
