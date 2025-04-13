@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full-Stack Developer | Java Enthusiast | Educator from India 🇮🇳</h3>
 
 📫 Reach me at: **santukumar7619@gmail.com**  
-🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics (2023–2027)**  
+🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics**  
 ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
 
 ## 🛠️ Technologies & Tools
@@ -35,10 +35,8 @@
 > Real-time weather app using OpenWeather API with responsive design.
 
 **Tools:** React, JavaScript, HTML5, CSS, OpenWeather API
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
-</p>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
 
 ## 🏆 Achievements
 
