@@ -16,25 +16,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 📚 Featured Projects
-
-
-### ✅ Task Management System
-> Full-stack system with React frontend and Spring Boot + MySQL backend.
-
-**Tools:** Spring Boot, MySQL, React, Axios, REST APIs
-
-### 📘 Blogging App
-> React-based blog app with full CRUD features and mock backend.
-
-**Tools:** React, Axios, Easy-Peasy, React Router, JSON Server, CSS
-
-### 🌦️ Weather Forecast App
-> Real-time weather app using OpenWeather API with responsive design.
-
-**Tools:** React, JavaScript, HTML5, CSS, OpenWeather API
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
 
