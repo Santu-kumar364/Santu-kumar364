@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santu Kumar</h1>
 <h3 align="center">An aspiring Full-Stack Developer | Java Enthusiast | Educator from India 🇮🇳</h3>
 
---- 
 📫 Reach me at: **santukumar7619@gmail.com**  
 🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics (2023–2027)**  
 ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -20,7 +17,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## 📚 Featured Projects
 
@@ -30,14 +26,10 @@
 
 **Tools:** Spring Boot, MySQL, React, Axios, REST APIs
 
----
-
 ### 📘 Blogging App
 > React-based blog app with full CRUD features and mock backend.
 
 **Tools:** React, Axios, Easy-Peasy, React Router, JSON Server, CSS
-
----
 
 ### 🌦️ Weather Forecast App
 > Real-time weather app using OpenWeather API with responsive design.
@@ -48,8 +40,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
 </p>
 
----
-
 ## 🏆 Achievements
 
 - 🧠 **Grand Master Rank** @ Coding Ninjas Code360  
@@ -57,8 +47,6 @@
 - ✅ Cleared Round 1 of Naukari Campus Young Turks  
 - 🇮🇳 Ranked in Top 0.4% in NDA 2022 (~0.6M students)  
 - 🥇 Top 0.01% in Bihar Polytechnic (DCECE 2021)  
-
----
 
 ## 🔗 Let's Connect
 
