@@ -2,10 +2,7 @@
 <h3 align="center">An aspiring Full-Stack Developer | Java Enthusiast | Educator from India 🇮🇳</h3>
 
 ---
-
-🔭 I’m currently working on: **Task Management System with Spring Boot + React**  
-🌱 I’m learning: **Java, Spring Boot, REST APIs, System Design**  
-💬 Ask me about: **Full-Stack Development, Java, React, MySQL**  
+ 
 📫 Reach me at: **santukumar7619@gmail.com**  
 🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics (2023–2027)**  
 ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
@@ -48,11 +45,7 @@
 **Tools:** Spring Boot, MySQL, React, Axios, REST APIs
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santu-kumar364&show_icons=true&theme=radical" height="180"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical" height="180"/>
 </p>
 
