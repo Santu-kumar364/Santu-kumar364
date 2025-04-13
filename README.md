@@ -34,3 +34,14 @@
 
  
  
+### 📚 Coding Profiles
+
+- 🧠 [HackerRank](https://www.hackerrank.com/your_username)
+- 🎯 [LeetCode](https://leetcode.com/your_username)
+- 🧩 [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/your_username)
+
+
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your_username)
+[![Coding Ninjas](https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=Codeforces&logoColor=white)](https://www.codingninjas.com/codestudio/profile/your_username)
+
