@@ -38,17 +38,4 @@
 
 
 
-
-
-<div align="center">
-  <a href="https://leetcode.com/u/santukumar7619/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="24" />
-  </a>
-  <a href="https://www.hackerrank.com/santukumar7619">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="24" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342">
-    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360 Logo" height="24" />
-  </a>
-</div>
-
+  
