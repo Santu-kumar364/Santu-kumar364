@@ -4,7 +4,7 @@
 ---
  
 📫 Reach me at: **santukumar7619@gmail.com**  
-🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics (2023–2027)**  
+🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics**  
 ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
 
 ---
@@ -25,6 +25,13 @@
 
 ## 📚 Featured Projects
 
+---
+
+### ✅ Task Management System
+> Full-stack system with React frontend and Spring Boot + MySQL backend.
+
+**Tools:** Spring Boot, MySQL, React, Axios, REST APIs
+
 ### 📘 Blogging App
 > React-based blog app with full CRUD features and mock backend.
 
@@ -36,13 +43,6 @@
 > Real-time weather app using OpenWeather API with responsive design.
 
 **Tools:** React, JavaScript, HTML5, CSS, OpenWeather API
-
----
-
-### ✅ Task Management System
-> Full-stack system with React frontend and Spring Boot + MySQL backend.
-
-**Tools:** Spring Boot, MySQL, React, Axios, REST APIs
 
 ---
  
