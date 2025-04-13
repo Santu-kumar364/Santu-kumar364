@@ -25,8 +25,6 @@
 
 ## 📚 Featured Projects
 
----
-
 ### ✅ Task Management System
 > Full-stack system with React frontend and Spring Boot + MySQL backend.
 
@@ -54,7 +52,6 @@
 - 🧠 **Grand Master Rank** @ Coding Ninjas Code360  
 - 👨‍💻 **Certified Software Engineer** @ HackerRank  
 - ✅ Cleared Round 1 of Naukari Campus Young Turks  
-- 🇮🇳 Ranked in Top 0.4% in NDA 2022 (~0.6M students)  
 - 🥇 Top 0.01% in Bihar Polytechnic (DCECE 2021)  
 
 ---
