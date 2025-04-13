@@ -36,10 +36,7 @@
 </a>
 
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="500"/>
-</p>
+ 
 
  
   
