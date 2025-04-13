@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santu Kumar</h1>
-<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 - 📫 How to reach me: **santukumar7619@gmail.com**
 - 🎓 Student at **Indian Institute of Technology Patna**
@@ -22,4 +22,4 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=radical)
  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+ 
