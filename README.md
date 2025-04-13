@@ -45,3 +45,5 @@
 <a href="https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342">
   <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360 Logo" height="28" />
 </a>
+
+https://files.codingninjas.in/new-cn-logos-1-1711622387.svg
