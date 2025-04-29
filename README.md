@@ -5,7 +5,7 @@
 🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics**  
 ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
