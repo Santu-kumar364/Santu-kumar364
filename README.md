@@ -20,7 +20,7 @@
 
  
 ## 💻 Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width=400px height=200px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width=500px height=150px />
 
 
 ## 📚 Coding Profiles
