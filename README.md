@@ -15,8 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-kumar364&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 
