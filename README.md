@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santu Kumar</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Java Enthusiast | Educator from India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer @GUVI HCL | Java Enthusiast | Educator from India 🇮🇳</h3>
 
 📫 Reach me at: **santukumar7619@gmail.com**  
 🎓 Student at: **IIT Patna | BSc in Computer Science & Data Analytics**  
