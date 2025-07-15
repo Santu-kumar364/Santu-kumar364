@@ -66,16 +66,13 @@
 
 ## 🌐 Let's Connect
 
-- 🔗 [Portfolio Website](https://your-portfolio.com)  
-- 📄 [Resume](https://your-resume.com)  
-- 📝 [Blog](https://your-blog.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 🔗 [GitHub Portfolio](https://github.com/Santu-kumar364)
+- 📄 [Resume (PDF)](https://chat.openai.com/c/ResumeSantu.pdf) <!-- Replace with a direct resume URL if hosted on Drive or GitHub -->
+- 📝 [Blog](https://your-blog.com) <!-- Optional: Replace or remove if no blog -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/santu-kumar-72239231b/)
 
 ---
 
 > _"I build scalable software and love solving real-world problems through code."_
 
- 
-
- 
   
