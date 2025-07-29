@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santu Kumar</h1>
-<h3 align="center">Full-Stack Developer @GUVI HCL | Java Enthusiast | Educator from India 🇮🇳</h3>
+<h3 align="center">Intern @GUVI HCL | Java Enthusiast | Educator from India 🇮🇳</h3>
 
 <p align="center">
   📫 <strong>Reach me at:</strong> <a href="mailto:santukumar7619@gmail.com">santukumar7619@gmail.com</a> <br>
