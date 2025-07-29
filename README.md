@@ -7,7 +7,6 @@
   ⚡ <strong>Fun fact:</strong> I love cycling 🚴 and talking to strangers!
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
----
 
 ## 👨‍💻 Coding Profiles
 
@@ -40,6 +38,5 @@
   </a>
 </p>
 
----
 
 > _"I build scalable software and love solving real-world problems through code."_
