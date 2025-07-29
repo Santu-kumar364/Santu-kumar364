@@ -4,10 +4,6 @@
   <i>Building scalable applications and solving real-world problems through code.</i>
 </p>
 
----
-
-### 💼 About Me
-
 - 🎓 B.Sc in Computer Science and Data Analytics @ IIT Patna (2023–2026)
 - 💻 Full-Stack Developer Intern @ GUVI (HCL Initiative)
 - 🧑‍🏫 Former Campus Ambassador @ Internshala | Event Coordinator @ Anwesha, IITP
@@ -39,16 +35,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/santukumar7619/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/santukumar7619)
 [![Code360](https://img.shields.io/badge/Code360-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342)
-
----
-
-### 🚀 Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🔗 [XzalChat](https://github.com/Santu-kumar364/XzalChat) | React, Firebase, Cloudinary | Real-time chat app with text/media support and authentication. |
-| 🔗 [Xzal Social App](https://github.com/Santu-kumar364/Xzal) | React, Spring Boot, MySQL, JWT | Full-stack social media app with secure auth & reels. |
-| 🔗 [Weather App](https://weather-app-iota-one-36.vercel.app/) | React, WeatherAPI | Real-time weather forecast with responsive UI. |
 
 ---
 
