@@ -1,42 +1,69 @@
 <h1 align="center">Hi 👋, I'm Santu Kumar</h1>
-<h3 align="center">Intern @GUVI HCL | Java Enthusiast | Educator from India 🇮🇳</h3>
-
 <p align="center">
-  📫 <strong>Reach me at:</strong> <a href="mailto:santukumar7619@gmail.com">santukumar7619@gmail.com</a> <br>
-  🎓 <strong>Student at:</strong> <em>IIT Patna</em> | <strong>BSc in Computer Science & Data Analytics</strong> <br>
-  ⚡ <strong>Fun fact:</strong> I love cycling 🚴 and talking to strangers!
+  <strong>Full-Stack Developer | Java & React Enthusiast | B.Sc. CSE & Data Analytics @ IIT Patna</strong><br>
+  <i>Building scalable applications and solving real-world problems through code.</i>
 </p>
 
+---
 
-## 🛠️ Tech Stack
+### 💼 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-0d94a4?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+- 🎓 B.Sc in Computer Science and Data Analytics @ IIT Patna (2023–2026)
+- 💻 Full-Stack Developer Intern @ GUVI (HCL Initiative)
+- 🧑‍🏫 Former Campus Ambassador @ Internshala | Event Coordinator @ Anwesha, IITP
+- ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
 
+📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com)
 
-## 👨‍💻 Coding Profiles
+📄 [Resume](https://github.com/Santu-kumar364/Santu-kumar364/blob/main/ResumeSantu.pdf) | 🌐 [Portfolio](https://my-portfolio-chi-rose-78.vercel.app/)
 
-<p align="center">
-  <a href="https://leetcode.com/u/santukumar7619/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/santukumar7619" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342" target="_blank">
-    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360 Logo" height="30" />
-  </a>
-</p>
+---
 
+### 🛠 Tech Stack
 
-> _"I build scalable software and love solving real-world problems through code."_
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 📈 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/santukumar7619/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/santukumar7619)
+[![Code360](https://img.shields.io/badge/Code360-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342)
+
+---
+
+### 🚀 Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🔗 [XzalChat](https://github.com/Santu-kumar364/XzalChat) | React, Firebase, Cloudinary | Real-time chat app with text/media support and authentication. |
+| 🔗 [Xzal Social App](https://github.com/Santu-kumar364/Xzal) | React, Spring Boot, MySQL, JWT | Full-stack social media app with secure auth & reels. |
+| 🔗 [Weather App](https://weather-app-iota-one-36.vercel.app/) | React, WeatherAPI | Real-time weather forecast with responsive UI. |
+
+---
+
+### 🏆 Achievements & Certifications
+
+- ✅ **HackerRank Certified:** [Frontend Developer](https://www.hackerrank.com/certificates/da3760ad50de), [Software Engineer](https://www.hackerrank.com/certificates/adfeeded7890)
+- 🧠 Cleared **AlgoQuiz – CodeClash 2025**
+- 🚀 Solved **250+ DSA problems** on Code360 (Level 7, 10,000+ EXP)
+- 🌐 **Top 2%** Rank in Bizquezt #19 by Naukri Campus
+- 🏅 **Top 2.6% globally** on LeetCode
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santu-kumar-72239231b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santu-kumar364)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-chi-rose-78.vercel.app/)
