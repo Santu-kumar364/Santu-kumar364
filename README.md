@@ -46,10 +46,4 @@
 - 🌐 **Top 2%** Rank in Bizquezt #19 by Naukri Campus
 - 🏅 **Top 2.6% globally** on LeetCode
 
----
-
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santu-kumar-72239231b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santu-kumar364)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-chi-rose-78.vercel.app/)
+ 
