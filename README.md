@@ -11,7 +11,7 @@
 
 📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com)
 
-📄 [Resume](https://drive.google.com/file/d/1BcWLhLWIZ-eT6hMf1nn912OFXM4jS6XS/view) | 🌐 [Portfolio](https://my-portfolio-chi-rose-78.vercel.app/)
+📄 [Resume](https://drive.google.com/uc?export=download&id=1Zr9eYMua0VfhPMB6FK9L3Dq7dPoi9gnB) | 🌐 [Portfolio](https://my-portfolio-cs4t.vercel.app/#home)
 
 ---
 
