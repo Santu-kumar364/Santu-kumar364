@@ -1,49 +1,136 @@
-<h1 align="center">Hi 👋, I'm Santu Kumar</h1>
-<p align="center">
-  <strong>Full-Stack Developer | Java & React Enthusiast | B.Sc. CSE & Data Analytics @ IIT Patna</strong><br>
-  <i>Building scalable applications and solving real-world problems through code.</i>
-</p>
+profile:
+  name: "Santu Kumar"
+  headline: "Full-Stack Developer | Java & React Enthusiast | B.Sc. CSE & Data Analytics @ IIT Patna"
+  bio: "Building scalable applications and solving real-world problems through code."
+  location: "India"
+  email: "santukumar7619@gmail.com"
+  portfolio_url: "https://my-portfolio-cs4t.vercel.app/#home"
+  github_username: "Santu-kumar364"
+  linkedin_username: "santu-kumar-72239231b"
 
-- 🎓 B.Sc in Computer Science and Data Analytics @ IIT Patna (2023–2026)
-- 💻 Full-Stack Developer Intern @ GUVI (HCL Initiative)
-- 🧑‍🏫 Former Campus Ambassador @ Internshala | Event Coordinator @ Anwesha, IITP
-- ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
+education:
+  institution: "Indian Institute of Technology Patna"
+  degree: "B.Sc. (Hons.) Computer Science and Data Analytics"
+  duration: "June 2023 – June 2026"
+  cpi: "8.4/10"
+  coursework:
+    - "Data Structures & Algorithms"
+    - "Object-Oriented Programming"
+    - "Operating Systems"
+    - "Computer Networks"
+    - "Database Management Systems"
 
-📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com)
+skills:
+  languages:
+    - "Java"
+    - "SQL"
+    - "JavaScript"
+  frameworks:
+    - "Spring Boot"
+    - "Spring Security"
+    - "Hibernate"
+    - "JPA"
+    - "REST APIs"
+    - "JWT"
+    - "React.js"
+  databases:
+    - "MySQL"
+    - "PostgreSQL"
+    - "MongoDB"
+  tools:
+    - "Docker"
+    - "Git"
+    - "GitHub"
+    - "Maven"
+    - "JUnit"
+    - "Postman"
+    - "CI/CD Pipelines"
+  platforms:
+    - "AWS"
+    - "Kubernetes"
+    - "Linux"
+  architecture:
+    - "Microservices"
+    - "Event-driven Architecture"
+    - "OOP"
+    - "SOLID Principles"
+    - "Design Patterns"
 
-📄 [Resume](https://drive.google.com/uc?export=download&id=1Zr9eYMua0VfhPMB6FK9L3Dq7dPoi9gnB) | 🌐 [Portfolio](https://my-portfolio-cs4t.vercel.app/#home)
+experience:
+  - company: "Prodesk IT"
+    role: "Software Trainee"
+    location: "Noida"
+    type: "Onsite"
+    duration: "June 2026 – Present"
+    details:
+      - "Developing and maintaining backend services using Java, Spring Boot, Hibernate, and REST APIs."
+      - "Writing and testing production-grade code with JUnit while collaborating in Agile teams to deliver scalable and secure software solutions."
+  
+  - company: "HCL GUVI"
+    role: "Software Developer (Internship)"
+    location: "Remote"
+    type: "Remote"
+    duration: "June 2025 – September 2025"
+    details:
+      - "Built SecureMyDocs using Spring Security, JWT, OTP & Docker — shipped in Agile sprint."
+      - "Wrote JUnit + integration tests for all endpoints; contributed to CI/CD & code reviews to improve quality."
+      - "Debugged & optimized API performance via Postman — reduced latency & improved reliability."
 
----
+  - company: "HackerRank"
+    role: "Campus Crew Member"
+    location: "Patna"
+    type: "Onsite"
+    duration: "January 2026 – May 2026"
+    details:
+      - "Mentored 50+ peers in DSA; led hackathons & coding sessions, fostering tech excellence across campus."
 
-### 🛠 Tech Stack
+projects:
+  - name: "Xzal"
+    description: "Scalable Social Media Platform"
+    repository: "https://github.com/Santu-kumar364/Xzal"
+    tech_stack:
+      - "Java"
+      - "Spring Boot"
+      - "PostgreSQL"
+      - "Docker"
+      - "Maven"
+      - "JWT"
+      - "React"
+    details:
+      - "Designed and implemented 25+ REST APIs for authentication, posts, comments, and user management, supporting scalable social-media workflows."
+      - "Containerised with Docker; Maven build pipeline; designed for scale with performance-first backend architecture."
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  - name: "SecureMyDocs"
+    description: "Document Management System"
+    repository: "https://github.com/Santu-kumar364/SecureMyDocs"
+    tech_stack:
+      - "Java"
+      - "Spring Boot"
+      - "Spring Security"
+      - "JWT"
+      - "PostgreSQL"
+      - "Docker"
+    details:
+      - "Developed secure document-sharing APIs using JWT authentication, RBAC, and OTP verification, ensuring controlled access to sensitive documents."
+      - "Full integration testing; Docker-containerised for CI/CD-ready deployment, reducing release cycle overhead."
 
----
+  - name: "Ticketing System"
+    description: "IT Support Platform"
+    repository: "https://github.com/Santu-kumar364/Ticketing-System"
+    tech_stack:
+      - "Java"
+      - "Spring Boot"
+      - "MySQL"
+      - "React.js"
+      - "JWT"
+      - "Role-Based Access Control"
+    details:
+      - "Built full-stack IT support platform with multi-role RBAC (User, Support Agent, Admin) — complete ticket lifecycle: Open → In Progress → Resolved → Closed."
+      - "Implemented JWT auth, user management, ticket reassignment & threaded comments with audit trail."
 
-### 📈 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/santukumar7619/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/santukumar7619)
-[![Code360](https://img.shields.io/badge/Code360-orange?style=for-the-badge)](https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342)
-
----
-
-### 🏆 Achievements & Certifications
-
-- ✅ **HackerRank Certified:** [Frontend Developer](https://www.hackerrank.com/certificates/da3760ad50de), [Software Engineer](https://www.hackerrank.com/certificates/adfeeded7890)
-- 🧠 Cleared **AlgoQuiz – CodeClash 2025**
-- 🚀 Solved **250+ DSA problems** on Code360 (Level 7, 10,000+ EXP)
-- 🌐 **Top 2%** Rank in Bizquezt #19 by Naukri Campus
-- 🏅 **Top 2.6% globally** on LeetCode
-
- 
+achievements:
+  - "CERN Technical Studentship Programme Interviews — Cleared (2025-3, Switzerland)"
+  - "Advanced to the Final Interview Round of AutoRABIT Internship among 49,000+ applicants"
+  - "Solved 250+ DSA problems on Code360 (Level 7, 10,000+ EXP)"
+  - "Top 2% Rank in Bizquezt #19 by Naukri Campus"
+  - "Top 2.6% globally on LeetCode"
