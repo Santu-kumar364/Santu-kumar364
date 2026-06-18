@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋, I'm Santu Kumar</h1>
+# 🚀 Santu Kumar
+
+### Associate Software Trainee @ Prodesk IT | Java Backend Engineer | IIT Patna Graduate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-kumar-72239231b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-cs4t.vercel.app/#home)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santukumar7619@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1Zr9eYMua0VfhPMB6FK9L3Dq7dPoi9gnB)
+
 <p align="center">
-  <strong>Associate Software Trainee @ Prodesk IT | Java Backend Engineer | IIT Patna Graduate</strong><br>
   <i>Building scalable applications and solving real-world problems through code.</i>
 </p>
 
-- 🎓 B.Sc in Computer Science and Data Analytics @ IIT Patna (2023–2026)
-- 💻 Full-Stack Developer Intern @ GUVI (HCL Initiative)
-- 🧑‍🏫 Former Campus Ambassador @ Internshala | Event Coordinator @ Anwesha, IITP
-- ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
+---
 
-📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com)
+## 📌 Quick Overview
 
-📄 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X-jD7392S1_YCBzyHQ_0ZnsK0FG5NA34/view) | 🌐 [Portfolio](https://my-portfolio-cs4t.vercel.app/#home)
+```yaml
+🎓 Education  : B.Sc. CS & Data Analytics @ IIT Patna (2023–2026) · CPI: 8.4/10
+💼 Current    : Associate Software Trainee @ Prodesk IT
+📍 Location   : Noida, India
+🇩🇪 Language  : German A2 (Learning)
+🎯 Open to   : Java Backend Roles · India & Europe
+🏆 LeetCode  : Top 2.6% Globally · 250+ Problems Solved
+⚡ Fun Fact  : I love cycling 🚴 and talking to strangers!
 
 ---
 
