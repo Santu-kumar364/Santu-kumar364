@@ -4,13 +4,16 @@
   <i>Building scalable applications and solving real-world problems through code.</i>
 </p>
 
-- 🎓 B.Sc in Computer Science and Data Analytics @ IIT Patna (2023–2026)
-- 🧑‍🏫 Former Software Developer @ GUVI HCL | HackerRank Crew Member @ HackerRank | Campus Ambassador @ Internshala | Event Coordinator @ Anwesha, IITP
-- ⚡ Fun fact: I love cycling 🚴 and talking to strangers!
+### 🚀 Quick Bio
+- 🎓 **IIT Patna** (2023–2026) | B.Sc. (Hons) CS & Data Analytics | CPI: **8.4**
+- 💼 **Prodesk IT** | Software Trainee (Current) &bull; **HCL GUVI** | Software Developer Intern (Past)
+- 🏆 **Achievements:** CERN Studentship Interviewee &bull; AutoRABIT Finalist (Top 49k+)
+- 🧠 **LeetCode Top 2.6%** (250+ DSA problems solved across platforms)
+
 
 📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com)
 
-📄 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X-jD7392S1_YCBzyHQ_0ZnsK0FG5NA34/view) | 🌐 [Portfolio](https://my-portfolio-cs4t.vercel.app/#home)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X-jD7392S1_YCBzyHQ_0ZnsK0FG5NA34/view) | 🌐 [Portfolio](https://my-portfolio-cs4t.vercel.app/#home)
 
 ---
 
@@ -25,8 +28,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+ 
 ---
 
 ### 📈 Coding Profiles
@@ -37,14 +39,23 @@
 
 ---
 
-### 🏆 Achievements & Certifications
-
-- ✅ **HackerRank Certified:** [Frontend Developer](https://www.hackerrank.com/certificates/da3760ad50de), [Software Engineer](https://www.hackerrank.com/certificates/adfeeded7890)
-- 🧠 Cleared **AlgoQuiz – CodeClash 2025**
-- 🚀 Solved **250+ DSA problems** on Code360 (Level 7, 10,000+ EXP)
-- 🌐 **Top 2%** Rank in Bizquezt #19 by Naukri Campus
-- 🏅 **Top 2.6% globally** on LeetCode
-
+### 📈 Stats & Profiles
+<p align="center">
+  <a href="https://github.com/Santu-kumar364">
+    <img src="https://github-readme-stats.vercel.app/api?username=Santu-kumar364&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Santu-kumar364">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-kumar364&theme=radical&hide_border=true" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/santukumar7619/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/santukumar7619"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.naukri.com/code360/profile/5e2c8886-59a2-4393-943b-773290a29342"><img src="https://img.shields.io/badge/Code360-orange?style=flat" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.github.io/github-profile-visitor-counter/?username=Santu-kumar364&color=ED8B00&style=flat-square" />
+</p>
  
 
 
