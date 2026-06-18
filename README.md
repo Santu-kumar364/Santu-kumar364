@@ -1,7 +1,7 @@
 <div align="center">
 
 # Santu Kumar
-### Java Backend Engineer · IIT Patna · Top 2.6% LeetCode
+### Software Engineer @ Prodesk IT | Java Backend Engineer | IIT Patna Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-kumar-72239231b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-cs4t.vercel.app/#home)
