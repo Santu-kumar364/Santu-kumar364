@@ -8,19 +8,32 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santukumar7619@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1Zr9eYMua0VfhPMB6FK9L3Dq7dPoi9gnB)
 
-![Profile Views](https://komarev.github.io/github-profile-visitor-counter/?username=Santu-kumar364&color=ED8B00&style=flat-square)
-
 </div>
 
 ---
 
-```yaml
-education : IIT Patna · B.Sc. (Hons.) CS & Data Analytics · CPI 8.4
-current   : Software Trainee @ Prodesk IT, Noida
-open_to   : Java Backend Roles · India & Europe · Relocation
-languages : English (Fluent) · German (B1) · Hindi (Native)
-highlight : Cleared CERN Technical Studentship interviews · LeetCode Top 2.6%
-```
+<table>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>IIT Patna &nbsp;·&nbsp; B.Sc. (Hons.) CS &amp; Data Analytics &nbsp;·&nbsp; <b>CPI 8.4 / 10</b></td>
+  </tr>
+  <tr>
+    <td>💼 <b>Current</b></td>
+    <td>Software Trainee @ Prodesk IT, Noida</td>
+  </tr>
+  <tr>
+    <td>🌍 <b>Open to</b></td>
+    <td>Java Backend Roles &nbsp;·&nbsp; India &amp; Europe &nbsp;·&nbsp; Relocation</td>
+  </tr>
+  <tr>
+    <td>🗣 <b>Languages</b></td>
+    <td>English (Fluent) &nbsp;·&nbsp; German (B1) &nbsp;·&nbsp; Hindi (Native)</td>
+  </tr>
+  <tr>
+    <td>🏆 <b>Highlight</b></td>
+    <td>Cleared <b>CERN Technical Studentship</b> interviews &nbsp;·&nbsp; <b>LeetCode Top 2.6%</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -77,12 +90,6 @@ highlight : Cleared CERN Technical Studentship interviews · LeetCode Top 2.6%
 
 <img src="https://github-readme-stats.vercel.app/api?username=Santu-kumar364&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=ED8B00" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-kumar364&theme=default&hide_border=true&ring=ED8B00&fire=ED8B00&currStreakLabel=000000" width="48%" />
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Santu-kumar364&theme=flat&no-frame=true&row=1&column=6&margin-w=8)
 
 </div>
 
