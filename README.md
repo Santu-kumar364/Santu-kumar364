@@ -15,21 +15,14 @@
 
 ---
 
-```yaml
-name       : Santu Kumar
-role       : Java Backend Engineer
-education  : B.Sc. (Hons.) CS & Data Analytics — IIT Patna | CPI 8.4/10
-current    : Software Trainee @ Prodesk IT, Noida
-languages  : English (Fluent) · German (B1) · Hindi (Native)
-open_to    : Java backend roles · Europe · Relocation
+## About
 
-highlights:
-  - Cleared CERN Technical Studentship Programme interviews (2025-3, Switzerland)
-  - Final interview round at AutoRABIT among 49,000+ applicants
-  - LeetCode Top 2.6% globally · 250+ DSA problems solved
-  - Top 2% rank in Bizquezt #19 by Naukri Campus
-  - HackerRank Certified — Software Engineer · Frontend Developer
-  - Code360 Level 7 · 10,000+ EXP
+```yaml
+education  : B.Sc. (Hons.) CS & Data Analytics — IIT Patna | CPI 8.4 / 10
+current    : Software Trainee @ Prodesk IT, Noida
+previous   : Software Developer Intern @ HCL GUVI
+languages  : English (Fluent) · German (B1) · Hindi (Native)
+open_to    : Java backend roles · India & Europe · Relocation
 ```
 
 ---
@@ -68,38 +61,16 @@ highlights:
 
 ---
 
-## 💼 Experience
+## 🏆 Achievements
 
-```yaml
-- role     : Software Trainee
-  company  : Prodesk IT
-  period   : June 2026 – Present
-  location : Noida, India
-  stack    : Java · Spring Boot · REST APIs
-
-- role     : Software Developer Intern
-  company  : HCL GUVI
-  period   : June 2025 – September 2025
-  location : Remote
-  stack    : Java · Spring Boot · Spring Security · JWT · Docker · JUnit
-  shipped  : SecureMyDocs — JWT auth, OTP verification, RBAC, Docker deployment
-```
-
----
-
-## 📁 Projects
-
-### [Xzal — Scalable Social Media Platform](https://github.com/Santu-kumar364/Xzal)
-`Java` `Spring Boot` `PostgreSQL` `Docker` `Maven` `JWT` `React.js`
-> 25+ REST APIs · modular microservices · JWT RBAC · full Docker containerisation
-
-### [SecureMyDocs — Document Management System](https://github.com/Santu-kumar364/secureMyDocs)
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker`
-> Production-grade secure APIs · OTP document sharing · JUnit tested · CI/CD ready
-
-### [Ticketing System — IT Support Platform](https://github.com/Santu-kumar364)
-`Java` `Spring Boot` `MySQL` `React.js` `JWT` `RBAC`
-> Multi-role RBAC · full ticket lifecycle · JWT auth · audit trail
+| | |
+|---|---|
+| 🔬 | Cleared **CERN Technical Studentship Programme** interviews · 2025-3, Switzerland |
+| 🏅 | **Final round at AutoRABIT** internship among 49,000+ applicants |
+| 📊 | **LeetCode Top 2.6% globally** · 250+ problems solved |
+| 🥇 | **Top 2%** rank in Bizquezt #19 by Naukri Campus |
+| ✅ | **HackerRank Certified** — Software Engineer · Frontend Developer |
+| 🎯 | Code360 Level 7 · 10,000+ EXP |
 
 ---
 
