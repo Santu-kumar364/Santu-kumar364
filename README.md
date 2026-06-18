@@ -11,9 +11,7 @@
 - 🧠 **LeetCode Top 2.6%** (250+ DSA problems solved across platforms)
 
 
-📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com)
-
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X-jD7392S1_YCBzyHQ_0ZnsK0FG5NA34/view) 
+📫 Reach me at: [santukumar7619@gmail.com](mailto:santukumar7619@gmail.com) | [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X-jD7392S1_YCBzyHQ_0ZnsK0FG5NA34/view) 
 
 ---
 
